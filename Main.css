@@ -1,0 +1,45 @@
+html {
+  background-color:#131313;
+}
+
+body {
+  background-color:#131313;
+}
+
+h1 {
+  background-color:#131313;
+  color:#FFFFFF;
+}
+
+table,td,th {
+  border: 0.5px solid #A27B5C;
+  background-color: #131313;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#grad {
+  background-image: linear-gradient(to right, #AB6F62 , black);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.square {
+  height: 100px;
+  width: 150px;
+  margin: 0px 0px 50px 50px;
+  display: inline-block;
+  border: 0.5px solid #842C19;
+  background-color: #131313;
+  text-align: left;
+  padding-left: 10px;
+}
+
+.wrap{
+        text-align:center
+    }
